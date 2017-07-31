@@ -1,7 +1,7 @@
 # nodejs-todo-list
 Simple to-do Node.js web application using Express and jQuery.
 
-This is a sample project for lecture, **[TODO 앱을 만들며 배우는 node.js 입문 (express + jquery)]** in [goormEDU](http://edu.goorm.io/index)
+This is a sample project for lecture, **[TODO 앱을 직접 만들면서 배우는 node.js / express / bootstrap / jquery](http://edu.goorm.io/lecture/bGVjX3pOZmhrXzE0NzMzMjIyOTMzODI=)** in [goormEDU](http://edu.goorm.io/index)
 
 
 
